@@ -1,1 +1,1 @@
-# rsschool-cv
+https://valdispatriarh.github.io/rsschool-cv/cv
