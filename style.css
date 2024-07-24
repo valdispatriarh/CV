@@ -74,6 +74,7 @@ ul {
 
 li {
   margin-bottom: 5px;
+  padding: 2px
 }
 
 
@@ -86,3 +87,6 @@ a:hover {
   text-decoration: underline;
 }
 
+.header-content-mobile {
+ display: none;
+}
