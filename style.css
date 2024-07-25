@@ -32,9 +32,6 @@ section {
   padding: 10px;
 }
 
-
-
-
 .header-content {
   display: flex;
   flex-direction: column;
@@ -45,14 +42,6 @@ h1 {
   font-size: 55px;
   margin-bottom: 30px;
 }
-
-
-
-
-
-
-
-
 
 .header-content img {
   border-radius: 1em;
@@ -74,8 +63,8 @@ ul {
 
 li {
   margin-bottom: 5px;
+  padding: 5px 0px;
 }
-
 
 a {
   color: #007bff;
@@ -86,3 +75,6 @@ a:hover {
   text-decoration: underline;
 }
 
+.header-content-mobile {
+  display: none;
+}
